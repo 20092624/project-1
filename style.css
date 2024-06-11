@@ -1,0 +1,749 @@
+.content1
+{
+    height:550px;
+    width:100%;
+    border:1px solid;
+    background-image: url(https://en.idei.club/uploads/posts/2023-06/1686149808_en-idei-club-p-nature-forest-background-dizain-instagram-3.jpg);
+    background-repeat:no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.con1 
+{
+    height: 100px;
+    width: 100%;
+    display: flex;
+}
+.con2 
+{
+    height:100px;
+    width:40%;
+}
+.con2 h1
+{
+    height: 100px;
+    width: 40%;
+    color: #fff;
+    margin-left:20px;
+}
+.con3 
+{
+    height:100px;
+    width:60%;
+    list-style-type:none;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    color: #fff;
+}
+.introtxt
+{
+    height:350px;
+    width:30%;
+    color: #fff;
+    margin-left: 100px;
+    text-align: center;
+}
+.introtxt h1
+{
+    margin-top: 25%;
+    margin-left: 10px;
+    margin-bottom:15px;
+    font-size:36px;
+}
+.introtxt button
+{
+    padding:8px 30px;
+    color:#fff;
+    background-color:transparent ;
+    border:0;
+    border:2px solid;
+    border-color:#8D9AAD;;
+    font-weight:600;
+    transition:0.5s;
+    cursor:pointer;
+}
+.introtxt button:hover
+{
+    background-color:#8D9AAD;
+    color:white;
+}
+.content2
+{
+    height:550px;
+    width:100%;
+    display: flex;
+    
+}
+.smallbox1
+{
+    height: 500px; 
+    width:35%;
+    margin-left:2%;
+    margin-top: 5%;
+}
+.smallbox1  p
+{
+    color: #797979;
+}
+.smallbox1 h2
+{
+    color: #908383;   
+}
+.smallbox2
+{
+    height:550px; 
+    width: 80%;
+}
+.smallbox1 button
+{
+    padding:8px 30px;
+    color:#8D9AAD;
+    background-color:transparent;
+    border:0;
+    border:2px solid;
+    border-color:#8D9AAD;
+    font-weight:600;
+    transition:0.5s;
+    cursor:pointer;
+    margin-top: 30px;
+    margin-left: 5%;
+}
+.smallbox1 button:hover
+{
+    background-color:#8D9AAD;;
+    color:white;
+}
+.box1
+{
+    height:250px; 
+    width:70%;
+    border: 1px solid;
+    margin-left: 10%;
+    margin-top:1%;
+    border-color: #898e97;
+}
+.box1 img
+{
+    height:50px; 
+    width:10%;
+    margin-left:8%;
+    margin-top:2% ;
+}
+.box1 h1
+{
+    margin-left:30px ;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    color: #797979;
+    margin-bottom: 10px;
+    font-size: 1.2rem;
+}
+.box1 p
+{
+    margin-bottom: 10px;
+    line-height: 1.4;
+    color: #797979;
+       
+}
+.box1 h2
+{
+    margin-left:30px;
+    color: #8D9AAD;
+}
+.box2
+{
+    height:250px; 
+    width:70%;
+    border: 1px solid;
+    margin-left: 10%;
+    margin-top:5%;
+    border-color: #898e97;
+}
+.box2 img
+{
+    height:50px;
+    width:21%;
+    margin-left:8% ;
+    margin-top:2%;
+}
+.box2 h1
+{
+    margin-left:3px ;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    color: #797979;
+    margin-bottom: 10px;
+    font-size: 1.2rem
+}
+.box2 h2
+{
+    margin-left:33px;
+    color: #8D9AAD;
+}
+.smallbox3
+{
+    height: 550px; 
+    width:85%;
+    
+}
+.mbox1
+{
+    height:250px; 
+    width:70%;
+    border:1px solid;
+    margin-left: 10%;
+    margin-top:1%;
+    color: #8D9AAD;
+}
+.mbox1 img
+{
+    height:50px;
+    width:10%;
+    margin-left:8%;
+    margin-top: 4%;
+}
+.mbox1 h1
+{
+    margin-left: 30px;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    color: #797979;
+    margin-bottom: 10px;
+    font-size: 1.2rem;
+}
+.mbox1 h2
+{
+    margin-left: 30px;
+}
+
+.mbox2
+{
+    height:250px; 
+    width:70%;
+    border: 1px solid;
+    margin-left: 10%;
+    margin-top:5%;
+    color: #8D9AAD;
+}
+.mbox2 img
+{
+    height:50px;
+    width:10%;
+    margin-left:8% ;
+    margin-top:4%;
+}
+.mbox2 h1
+{
+    margin-left: 30px;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    color: #797979;
+    margin-bottom: 10px;
+    font-size: 1.2rem;
+}
+.mbox2 h2
+{
+    margin-left:30px;
+}
+.content3
+{
+    height:550px;
+    width:100%;
+    
+    display: flex;
+}
+.pbox1
+{
+    height:550px;
+    width:50%;
+    
+    background-image: url(https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ0PhehV1OvnKWHHlvA4H1ajNwF37_NFcwOiZ4bpx9w0_qW51Mq);
+    text-align: right;  
+}
+
+.pbox1 h1
+{
+    color: #8D9AAD;
+    font-weight:100;
+    margin-left:40%;
+    margin-right:5%;
+    font-size: 1.2rem;
+    line-height: normal;
+    font-weight: normal;
+    text-transform: uppercase;
+    margin-top:10%;
+    margin-bottom:2%;
+}
+.pbox1 h2
+{
+    color: #8D9AAD;
+    font-weight:900;
+    margin-left:40%;
+    margin-right:5%;
+    line-height: normal;
+    font-weight: normal;
+    text-transform: uppercase;
+    font-size: 1.2rem;
+    margin-top:6%;
+    margin-bottom:3%;
+}
+.pbox1 h3
+{
+    color: #8D9AAD;
+    font-weight:500%;
+    margin-left:40%;
+    margin-right:5%;
+    line-height: normal;
+    font-weight: normal;
+    text-transform: uppercase;
+    font-size: 1.2rem;
+    margin-top: 5%;
+}
+.pbox1 p
+{
+    color: white;
+    margin-left:40% ;
+    text-align:right;
+}
+.pbox1 p
+{
+    color: white;
+    margin-left:40%;
+    text-align:right;
+    margin-top: 5%;
+}
+.pbox1 p
+{
+    color: white;
+    margin-left:40%;
+    text-align:right;
+}
+.pbox1 p
+{
+    color: white;
+    margin-left:40%;
+    
+}
+
+.pbox2
+{
+    height: 550px;
+    width:50%;
+    
+    background-image:url(https://us.123rf.com/450wm/umbertoleporini/umbertoleporini1311/umbertoleporini131100007/23719223-hemp-rope.jpg?ver=6);
+    background-size:cover;
+}
+
+.rbox1
+{
+    height:350px;
+    width:40%;
+    border-color: #FFF;
+    margin-left: 20%; 
+    margin-top: 15%;
+}
+.rbox1 h1
+{
+    color: #fff;
+    font-weight:600;
+}
+.rbox1 p
+{
+    color: #fff;
+}
+.rbox1 button
+{
+    padding:8px 30px;
+    color:#fff;
+    background-color:transparent ;
+    border:0;
+    border:2px solid;
+    border-color:#8D9AAD;;
+    font-weight:600;
+    transition:0.5s;
+    cursor:pointer;
+}
+.rbox1 button:hover
+{
+    background-color:#8D9AAD;
+    color:white;
+}
+.content4
+{
+    height:350px;
+    width:100%;
+    
+    display:flex;
+}
+.kbox1
+{
+    height: 350px;
+    width:25%;
+    
+    
+}
+.abox1 
+{
+    height: 170px;
+    width:100%;
+    
+    background-image: url(https://understandingthegospel.org/media/1052/christianity-credible.jpg?mode=crop&width=1370&height=750);
+    background-size: cover;
+    margin-left: 0.1%;
+}
+.abox2 
+{
+    height: 170px;
+    width:100%;
+    
+      
+}
+.abox2 h1
+{
+    margin-left: 20px;
+    color: #8D9AAD;
+    font-size: 1.2rem;
+    text-align: center;
+}
+.abox2 p
+{
+    margin-left:20px;
+    text-align: center;
+    color: #414c68;
+
+}
+.kbox2
+{
+    height:350px;
+    width:25%;
+    
+}
+.gbox1 
+{
+    height: 170px;
+    width:100%;
+    
+    background-image:url(https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRWyqQSq8RkcN-x9w9LcL9jb5EtnrV8DxWWGrCS1R8y-utLlH8z); 
+    background-size:cover;
+    background-position: center;
+}
+.gbox2 
+{
+    height: 170px;
+    width:100%;
+    
+    
+}
+.gbox2 h1
+{
+    margin-left: 20px;
+    color: #8D9AAD;
+    font-size: 1.2rem;
+    text-align: center;
+
+}
+.gbox2 p
+{
+    margin-left:20px;
+    text-align: center;
+    color:#414c68;
+}
+.kbox3
+{
+    height:350px;
+    width:50%;
+    border:1px solid;
+    color: antiquewhite;
+}
+.kbox3 h1
+{
+    color: #8D9AAD;
+    font-size: 1.8rem;
+    line-height: normal;
+    font-weight: normal;
+    text-transform: uppercase;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    margin-top:70px;
+    margin-left: 30%
+    
+}
+.kbox3 p
+{
+    margin-top:30px;
+    margin-left:20%;
+    text-align: center;
+    color: #414c68;
+
+    
+}
+.kbox3 button
+{
+    padding:8px 30px;
+    color:#8D9AAD;
+    background-color:transparent;
+    border:0;
+    border:2px solid;
+    border-color:#8D9AAD;
+    font-weight:600;
+    transition:0.5s;
+    cursor:pointer;
+    margin-top: 5px;
+    margin-left: 40%;
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 14px;
+    line-height: 1.6em;
+}
+.kbox3 button:hover
+{
+    background-color:#8D9AAD;
+    color:white;
+}
+.content5
+{
+    height: 550px;
+    width:100%;
+    
+    display:flex;
+}
+.svbox1
+{
+    height: 550px; 
+    width:50%;
+    border:1px solid;
+    color: antiquewhite;
+}
+.svbox1 h1
+{
+    margin-top: 75px;
+    margin-left: 35%;
+    color: #797979;
+    font-size: 22px;
+    font-weight: normal;
+}
+
+.svbox1 h2
+{
+    margin-top:70px ;
+    margin-left:24%;
+    color: #8D9AAD;
+    font-size: 1.2rem;
+    font-weight: normal;
+}
+.svbox1 h3
+{
+    margin-top:40px ;
+    margin-left: 20%;
+    color: #8D9AAD;
+    font-size: 1.2rem;
+    font-weight: normal;
+}
+.svbox1 h4
+{
+    margin-top:40px ;
+    margin-left: 20%;
+    color: #8D9AAD;
+    font-size: 1.2rem;
+    font-weight: normal;
+}
+.svbox1 h5
+{
+    margin-top:40px ;
+    margin-left: 38%;
+    color: #8D9AAD;
+    font-size: 1.2rem;
+    font-weight: normal; 
+}
+.svbox1 p
+{
+    margin-left:35%;
+    font-size: .8rem;
+    color: #797979;
+}
+
+.svbox2
+{
+    height: 550px; 
+    width:50%;
+    border:1px solid;
+    color: antiquewhite;
+    background-image: url(https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ4n7yzn6FWzU5MyvpHcYbU1WW26mhlzgQfw-StTVyeknpO4jwx);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top center;
+}
+.content6
+{
+    height: 400px;
+    width:100%;
+    
+    
+}
+.navbar
+{
+    height: 117px; 
+    width: 100%;
+    
+    display: flex;
+    background-color:#b8c5d9 ;
+}
+.nav1
+{
+    height: 117px; 
+    width: 20%;
+    
+    background-image: url(https://clipart-library.com/images/8c6oko6ei.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center;
+}
+
+.nav2
+{
+    height: 117px; 
+    width: 20%;
+    background-image:url(https://sm.ign.com/ign_pt/screenshot/default/atari-logo-imagem-destaque-50-anos_9sry.jpg);
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size: cover;
+}
+.nav3
+{
+    height: 117px; 
+    width: 20%;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcfzEAGoF2Q08yuPlI0qJh06mj10FjmY0-G1etM8OwS0YwnnpIm1h-l1xuZtwyEm2Oxyk&usqp=CAU);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center;
+}
+.nav4
+{
+    height: 117px; 
+    width: 20%;
+    background-image: url(https://cdn.logojoy.com/wp-content/uploads/20231013154325/Adidas-1967-logo-600x319.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position:center;
+}
+.nav4 img
+{
+    background-color: #333;
+}
+.nav5
+{
+    height: 117px; 
+    width: 20%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqhdb5tD4JddnYuCqelHusyb9PxygMFH2yn92DIvBBB0SsHDTEYj1bGizyoT-gM3dvyqo&usqp=CAU);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position:center;
+    
+}
+.ksbox
+{
+    height: 281px;
+    width: 100%;
+    border: 1px solid;
+    display: flex;
+    background-color: #333;
+}
+.skbox1
+{
+    height: 281px;
+    width: 22.69938650306748%;
+    display: inline-block;
+    margin: 0 0 0 3.06748466257669%;
+    list-style: none;
+    margin-left: 0;
+    clear: left;
+    text-align: left;
+    word-wrap: break-word;
+
+}
+.skbox1 h1
+{
+    margin-left: 25%;
+    color: #FFF;
+    font-size: 19px;
+    line-height: 1.6em;
+}
+.skbox1 p
+{
+    margin-left: 30%;
+    color: #888;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 1.6em;
+    font-family: Verdana, Geneva, sans-seri
+}
+.skbox2
+{
+    height: 281px;
+    width: 25%;
+    
+}
+.skbox2 h1
+{
+    margin-left:27%;
+    color: #FFF;
+    font-size: 19px;
+    line-height: 1.6em;
+}
+.skbox2 h2
+{
+    margin-left: 31%;
+    color:#888;;
+    font-size: 14px;
+    line-height: 1.6em;
+}
+.skbox2 p
+{
+    margin-left: 30%;
+    color: #888;;
+    font-size: 14px;
+    line-height: 1.6em;
+    font-family: Verdana, Geneva, sans-seri
+}
+.skbox3
+{
+    height: 281px;
+    width: 25%;
+    
+}
+.skbox3 h1
+{
+    margin-left: 30%    ;
+    color: #FFF;
+    font-size: 19px;
+    line-height: 1.6em;
+}
+.skbox3 p
+{
+    margin-left:25%;
+    color:#888;;
+    font-size: 14px;
+    line-height: 1.6em;
+    font-family: Verdana, Geneva, sans-seri
+}
+
+.skbox4
+{
+    height: 281px;
+    width: 25%;
+    
+}
+.skbox4 h1
+{
+    margin-left:30%;
+    color: #FFF;
+    font-size: 19px;
+    line-height: 1.6em;
+}
+.skbox4 p
+{
+    margin-left: 30%;
+    color: #888;;
+    font-size: 14px;
+    line-height: 1.6em;
+    font-family: Verdana, Geneva, sans-seri
+}
